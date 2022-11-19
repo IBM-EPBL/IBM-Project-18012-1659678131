@@ -1,4 +1,4 @@
-# IBM-Project-27034-1660044417
+# IBM-Project-18012-1659678131
 Detecting Parkinson’s Disease using Machine Learning
 
 #### What is meant by Parkinson's Disease?
@@ -70,7 +70,7 @@ A person diagnosed with Parkinson’s disease can have other symptoms that inclu
 ## Team mates 
 - Shyam Ganesh E (Team Leader)
 - Nadeem Sheriff E
-- Nandha Kumar R
+- NandhaKumar R
 - Karthik P
 - Sanju R
 
